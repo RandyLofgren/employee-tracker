@@ -1,5 +1,5 @@
 // TODO: Write code to define and export the Employee class
-class Employee {
+class Employee {  //The class constructor fir employees
     constructor(name, id, email) {
       this.name = name;
       this.id = id;
@@ -19,4 +19,4 @@ class Employee {
     }
 
   }
-  module.exports = Employee;
+  module.exports = Employee;  //Allows us to export the class Employee
