@@ -67,13 +67,13 @@
   ![2020-12-02 (2)](https://user-images.githubusercontent.com/43276499/100949314-fb14f600-34d7-11eb-81af-36224454fc2b.png)
 
 
-    Link to the video
+    Link to the video on functions right below.
 
   <a href='https://drive.google.com/file/d/1JuyCtPXZB69Gq3My8Grf_BQSCGcWIFFp/view?usp=sharing' target='_blank'>Application Video</a>
 
    
-
-   
+    Link to the video with tests right below.
+   <a href='https://drive.google.com/file/d/1GcrsBZmS8R0Z1amNmb0mb9G_4AtMJEAF/view?usp=sharing' target='_blank'>Application Video</a>
     
     
     
